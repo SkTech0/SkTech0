@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SkTech0
+- 👋 Hi, I’m Satyam
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on Data science projects
