@@ -2,7 +2,6 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on Data science projects
-- 📫 How to reach me ...
 - 😄 Pronouns: Sattu
 - ⚡ Fun fact: Everything is Data 
 
